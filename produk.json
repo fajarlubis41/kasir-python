@@ -1,0 +1,26 @@
+[
+    {
+        "id_produk": 1,
+        "nama": "LCD Oppo A38",
+        "harga": 111000,
+        "stok": 0
+    },
+    {
+        "id_produk": 2,
+        "nama": "Kabel Charger Type C",
+        "harga": 15000,
+        "stok": 15
+    },
+    {
+        "id_produk": 3,
+        "nama": "Kabel Charger Micro",
+        "harga": 10000,
+        "stok": 15
+    },
+    {
+        "id_produk": 4,
+        "nama": "Kabel Charger iPhone",
+        "harga": 20000,
+        "stok": 50
+    }
+]

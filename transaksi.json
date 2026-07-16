@@ -1,0 +1,48 @@
+[
+    {
+        "id_transaksi": "TRX0001",
+        "tanggal": "2026-07-16 21:54:00",
+        "items": [
+            {
+                "id_produk": 3,
+                "nama": "Kabel Charger Micro",
+                "harga": 10000,
+                "jumlah": 5,
+                "subtotal": 50000
+            },
+            {
+                "id_produk": 2,
+                "nama": "Kabel Charger Type C",
+                "harga": 15000,
+                "jumlah": 10,
+                "subtotal": 150000
+            }
+        ],
+        "total": 200000,
+        "bayar": 200000,
+        "kembalian": 0
+    },
+    {
+        "id_transaksi": "TRX0002",
+        "tanggal": "2026-07-16 22:02:50",
+        "items": [
+            {
+                "id_produk": 2,
+                "nama": "Kabel Charger Type C",
+                "harga": 15000,
+                "jumlah": 5,
+                "subtotal": 75000
+            },
+            {
+                "id_produk": 3,
+                "nama": "Kabel Charger Micro",
+                "harga": 10000,
+                "jumlah": 5,
+                "subtotal": 50000
+            }
+        ],
+        "total": 125000,
+        "bayar": 150000,
+        "kembalian": 25000
+    }
+]
